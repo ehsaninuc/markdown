@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T10:21:16.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" version="14.9.4" etag="9hMKz2jJvWghuISVlLbk" type="github"><diagram id="3S6mu3fXRcrWrTUisi-l">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-04T10:28:58.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="ycxXPY-bj7SRWhK6ORqA" version="14.9.4" type="github">
+  <diagram id="3S6mu3fXRcrWrTUisi-l" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L28KTc8vjhFP1BHGEcHV-1" target="L28KTc8vjhFP1BHGEcHV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L28KTc8vjhFP1BHGEcHV-2" target="L28KTc8vjhFP1BHGEcHV-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-2" value="Clone GitHub Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L28KTc8vjhFP1BHGEcHV-4" target="L28KTc8vjhFP1BHGEcHV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-4" value="Create Contents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L28KTc8vjhFP1BHGEcHV-6" target="L28KTc8vjhFP1BHGEcHV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-6" value="Deploy to Kong" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-8" value="Finish" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L28KTc8vjhFP1BHGEcHV-10" target="L28KTc8vjhFP1BHGEcHV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-10" value="Export Confluence" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L28KTc8vjhFP1BHGEcHV-12" target="L28KTc8vjhFP1BHGEcHV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L28KTc8vjhFP1BHGEcHV-12" value="Push to GitHub" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
